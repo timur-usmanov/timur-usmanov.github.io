@@ -1,0 +1,120 @@
+body{
+	font-family: 'Open Sans', sans-serif;
+	font-size: 24px;
+	color: #868585;
+	background: #fdfcfb;
+	font-weight: normal;
+}
+
+img{
+	max-width: 100%;
+	height: auto;
+}
+
+.myNavStyle{
+	background-color: white;
+	padding: 0px;
+}
+
+.myNavItem{
+	//padding-left: 100px;
+	//padding-right: 100px;
+	//outline: 1px solid gray;
+	//width: 140px;
+	//width: 100%;
+	border: 1px dashed #A2A2A2;
+	text-align: center;
+	position: relative;
+  	width: 100%;
+  	min-height: 1px;
+  	padding-right: 15px;
+  	padding-left: 15px;
+}
+
+.myNavActive{
+	background-color: #E6E6E6;
+}
+
+.myContStyle{
+	border-radius: 14px;
+	border: 1px dashed #A2A2A2;
+	
+}
+
+.myImg{
+	display: block;
+	max-width: 70%;
+	margin: 0 auto;
+}
+
+.myH1{
+	text-align: center;
+	//outline: 1px solid gray;
+	margin: 20px auto;
+	color: black;
+	font-size: 26px;
+}
+
+.myH2{
+	color: black;
+	font-size: 20px;
+	text-decoration: underline;
+}
+
+.mySpan{
+	font-weight: bold;
+}
+
+.myP{
+	color: black;
+	font-size: 16px;
+}
+
+.timerDiv{
+	color: black;
+	font-size: 36px;
+}
+
+.content{
+	display: none;
+}
+
+.myDisplay {
+	display: block;
+}
+
+.margTop{
+	margin-top: 35px;
+}
+
+.nonPadding{
+	padding-left: 0px;
+	padding-right: 0px;
+}
+
+.outline{
+	outline: 1px solid gray;
+}
+
+
+.myMap{
+	padding-top: 15px;
+	padding-bottom:15px;
+	position: relative;
+}
+
+@media only screen and (max-width: 1200px) {
+	
+}
+
+@media only screen and (max-width: 1200px) {
+	
+}
+
+@media only screen and (max-width: 1200px) {
+	
+}
+
+@media only screen and (max-width: 1200px) {
+	
+}
